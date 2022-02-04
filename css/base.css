@@ -27,3 +27,7 @@
   border-color: #222;
   background: #34495e;
 }
+
+#header-img-container {
+  background-image: url(/image/header.png);
+}
